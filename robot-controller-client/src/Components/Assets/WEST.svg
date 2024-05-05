@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="50px" height="50px" version="1.1" viewBox="0 0 32 32" xmlns="http://www.w3.org/2000/svg">
+<title>arrow-left-circle</title>
+<desc>Created with Sketch Beta.</desc>
+<g fill="none" fill-rule="evenodd">
+<g transform="translate(-258 -1089)" fill="#000">
+<path d="m281 1106h-10.586l4.122 4.12c0.39 0.39 0.39 1.03 0 1.42-0.391 0.39-1.024 0.39-1.415 0l-5.657-5.66c-0.239-0.24-0.314-0.57-0.259-0.88-0.055-0.31 0.02-0.64 0.259-0.88l5.657-5.66c0.391-0.39 1.024-0.39 1.415 0 0.39 0.4 0.39 1.03 0 1.42l-4.122 4.12h10.586c0.552 0 1 0.45 1 1s-0.448 1-1 1zm-7-17c-8.836 0-16 7.16-16 16s7.164 16 16 16 16-7.16 16-16-7.164-16-16-16z"></path>
+</g>
+</g>
+</svg>

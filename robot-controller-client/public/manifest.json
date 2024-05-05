@@ -1,0 +1,8 @@
+{
+  "short_name": "Idealo Robot Controller",
+  "name": "Idealo Robot Controller",
+  "start_url": ".",
+  "display": "standalone",
+  "theme_color": "#000000",
+  "background_color": "#ffffff"
+}

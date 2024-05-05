@@ -1,0 +1,13 @@
+.execute {
+    width: 150px;
+    height: 50px;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    border-radius: 50px;
+    background: #ef6537;
+    font-size: 18px;
+    color: white;
+    margin-top: 25px;
+    margin-bottom: 50px;
+}

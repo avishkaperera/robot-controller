@@ -1,0 +1,33 @@
+.grid {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.title {
+    margin-top: 50px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.grid-table {
+    height: 500px;
+    width: 500px;
+    background-color: #32ac77;
+}
+
+.grid-table-column {
+    border: 4px solid;
+    border-radius: 12px;
+    height: 60px;
+    width: 60px;
+}
+
+.grid-table-column-number {
+    font-size: 26px;
+    height: 60px;
+    width: 60px;
+}

@@ -1,0 +1,16 @@
+.container {
+    text-align: center;
+    display: flex;
+    align-items: center;
+}
+
+.error-message{
+    text-align: center;
+    align-items: center;
+    margin-top: 20px;
+}
+
+.error-message > span {
+    color: red;
+    font-size: 20px;
+}

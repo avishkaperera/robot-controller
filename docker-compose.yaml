@@ -1,0 +1,14 @@
+version: '3'
+services:
+  robot-controller-api:
+    build:
+      dockerfile: Dockerfile
+      context: ./robot-controller-api
+    ports:
+      - "8080:8080"
+  robot-controller-client:
+    build:
+      dockerfile: Dockerfile
+      context: ./robot-controller-client
+    ports:
+      - "3000:3000"

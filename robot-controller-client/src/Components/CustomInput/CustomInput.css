@@ -1,0 +1,27 @@
+.script {
+    height: 500px;
+    width: 500px;
+    margin: auto;
+}
+
+.script-title {
+    margin-top: 50px;
+    color: white;
+    font-size: 30px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.script-input {
+    margin-top: 20px;
+    width: inherit;
+    height: auto;
+}
+
+.script-txt {
+    width: 500px;
+    height: 400px;
+    display: block;
+    font-size: 18px;
+}

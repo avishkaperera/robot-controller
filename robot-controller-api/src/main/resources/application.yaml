@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: robot-controller-api
+
+app:
+  constraints:
+    grid-x-limit: 4
+    grid-y-limit: 4

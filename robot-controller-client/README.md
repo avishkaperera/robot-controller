@@ -53,6 +53,7 @@ more improvements done
 - Move some properties to configuration files
 - Write unit tests
 - Implement certain validations for script input and grid movement
+- Improve UI with better styling and user experience
 
 
 
